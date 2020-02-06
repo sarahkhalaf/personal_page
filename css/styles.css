@@ -1,0 +1,39 @@
+body,h1{
+  text-align: center;
+margin: 0; auto ; 0 ;auto;  }
+body{ background-color: #e1f2fb;
+  font-family: 'Raleway', sans-serif;
+  font-size:200%
+}
+h1{ font-size:562.5%;
+  font-family: 'Sacramento', cursive;
+}
+h2{ font-size:40px;
+  font-family: 'Montserrat', sans-serif;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+}
+.top{
+  background-color: #e1f2fb;
+}
+.sun{
+  position: relative;
+  left: 800px;
+}
+.cloud1{
+  position: relative;
+  left: 595px;
+  top: 40px;
+}
+.prof{
+  border-radius:100%;
+}
+hr{
+  border-style: none;
+  border-top-style:dotted;
+  border-color: #8ac6d1;
+  border-width: 5px;
+  width: 5%;
+
+}
